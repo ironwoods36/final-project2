@@ -7,11 +7,28 @@ div {
     height: 100px;
     background-color: rgb(154, 149, 149);
     align-content: center;
+    text-align: center;
 }
 ul {
     height: 400px;
     background-color: red;
+    text-decoration-color: dodgerblue;
 }
 section {
     height: 600px;
+}
+footer {
+    height: 200px;
+    background-color: red;
+    text-align: center;   
+}
+.fa-brands {
+    font-size: 40px;
+    margin: 20px;
+}
+.fa-google {
+    color: #8a2be2;
+}
+.fa-github {
+    color: #ff7f50;
 }
